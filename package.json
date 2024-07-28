@@ -19,8 +19,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hot-toast": "^2.4.1",
-    "validator": "^13.12.0",
-    "validatore": "^1.0.0"
+    "validator": "^13.12.0"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",

@@ -56,7 +56,6 @@ function About() {
         <p>Email: {user.email}</p>
         <p>Name: {user.name}</p>
         <p>Role: {user.role}</p>
-        <p>Verified user?: {user.isVerify}</p>
       </div>
     </div>
   );
